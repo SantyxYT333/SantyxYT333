@@ -1,0 +1,2 @@
+- 🔰 Hola! Soy Santiago Salerno, un programador de bots de discord que quiere crecer en esta bella comunidad, por ahora me especializo en JavaScript, Java y C#, futuramente me gustaria aprender mas lenguajes, como PHP, CSS, HTML, entre otros!
+- ⚙ Tengo un bot de discord! Este es Sparkle Guard! Un bot AntiRaid con constantes aplicaciones! Lo encuentras en mi servidor de soporte! https://dc.sparkleguard.ml/
